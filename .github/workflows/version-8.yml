@@ -1,4 +1,4 @@
-name: pnpm Version 8
+name: pnpm Version 7
 on:
   push:
 jobs:
