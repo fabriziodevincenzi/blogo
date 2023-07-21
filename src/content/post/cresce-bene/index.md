@@ -22,6 +22,6 @@ Tanto che feci una foto al posto che ho riguardato solo stasera, anche con occhi
 
 Fu una bella settimana, piena di riflessioni che portarono a qualcosa. Posso perciò annoverare quelle tappe tra quelle che associo alle tappe più metaforiche della crescita personale, morale ed emotiva. Altra cosa che mi riporta a oggi, cioè dove penso e spero che si piazzerà più o meno un'altra tappa.
 
-Se sarò costante nello scrivere queste e-mail mensili, sarà la cartina tornasole. Per farlo ovviamente rileggerò le bozze più volte, ma non cercherò la perfezione. Troverete degli errori e me ne scuso fin d'ora. Altri errori invece saranno voluti perché userò molto una forma discorsiva. Lo noterete. Soprattutto sulla punteggiatura. Non parlerò di me, se non per prendere spunti dal mio vissuto. Se vi va di rispondermi non sarà tempo perso, sicuramente per me che spero leggerò.
+Se sarò costante nello scrivere i post, sarà la cartina tornasole. Per farlo ovviamente rileggerò le bozze più volte, ma non cercherò la perfezione. Troverete degli errori e me ne scuso fin d'ora. Altri errori invece saranno voluti perché userò molto una forma discorsiva. Lo noterete. Soprattutto sulla punteggiatura. Non parlerò di me, se non per prendere spunti dal mio vissuto. Se vi va di rispondermi non sarà tempo perso, sicuramente per me che spero leggerò.
 
 
