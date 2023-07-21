@@ -1,6 +1,6 @@
 ---
 title: "Cresce bene"
-description: "Decluttering digitale, analisi degli anni passati a sviluppare siti in Wordpress, conseguente riconsiderazione dei siti statici, riscoperta del codice puro e presa a cuore dei temi sulla privacy, mi ha portato qui, al contenuto puro, pulito e mio. Basta social, niente piattaforme di newsletter, ma solo un mio dominio per chi avrà il piacere di leggermi."
+description: "Un nuovo corso, nato da decluttering digitale, riconsiderazione dei siti statici, presa a cuore dei temi sulla privacy"
 publishDate: "06 Oct 2022"
 coverImage:
   src: "./bar-wurzburg-edera.jpg"
