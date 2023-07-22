@@ -82,7 +82,7 @@ export default {
 						tfoot: {
 							borderTop: "1px dashed #666",
 						},
-						Image: {
+						img: {
 							border-radius: 8px,
 						}
 					},
