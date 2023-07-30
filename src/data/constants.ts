@@ -12,9 +12,9 @@ export const MENU_LINKS = [
 		path: "/posts/",
 	},
 	{
-		title: "Offer me a coffee"
-		path: "https://donate.stripe.com/00g9DRe5o6wF2LCaEF"
-	}
+		title: "Offer me a coffee",
+		path: "https://donate.stripe.com/00g9DRe5o6wF2LCaEF",
+	},
 ];
 
 // ! Remember to add your own socials
