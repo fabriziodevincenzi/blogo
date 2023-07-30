@@ -11,12 +11,14 @@ export const MENU_LINKS = [
 		title: "Blog",
 		path: "/posts/",
 	},
+	{
+		title: "Offer me a coffee"
+		path: "https://donate.stripe.com/00g9DRe5o6wF2LCaEF"
+	}
 ];
 
 // ! Remember to add your own socials
 export const SOCIAL_LINKS = {
-	github: "https://github.com/fabriziodevincenzi",
 	twitter: "https://twitter.com/gnoccodimalga",
-	discord: "https://discord.com",
 	email: "hello@fabriziodevincenzi.com",
 };
