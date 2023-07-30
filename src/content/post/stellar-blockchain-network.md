@@ -1,6 +1,6 @@
 ---
 title: "Cos'è Stellar, la rete blockchain pensata per essere inclusiva"
-publishDate: "30 Jul 2023"
+publishDate: "29 Jul 2023"
 description: "L'inclusione finanziaria è l'obiettivo principale dei partecipanti alla rete blockchain Stellar."
 tags: ["blockchain"]
 ---
