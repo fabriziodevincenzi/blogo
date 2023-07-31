@@ -17,14 +17,13 @@ const postDate = getFormattedDate(data.publishDate, { month: "long" });
 
 {
 	data.coverImage && (
-		<div class="aspect-h-9 aspect-w-16 mb-6 aspect-auto">
+		<div class="aspect-h-9 aspect-w-16 mb-6">
 			<Image
 				src={data.coverImage.src}
 				alt={data.coverImage.alt}
 				class="object-cover"
 				loading="eager"
 				fetchpriority="high"
-				class="aspect-auto"
 			/>
 		</div>
 	)
