@@ -5,7 +5,7 @@ description: "L'obiettivo principale dei partecipanti alla rete blockchain Stell
 tags: ["blockchain"]
 ---
 
-## This is a post made with Markdown
+## In sintesi
 
 La rete blockchain Stellar è una piattaforma decentralizzata basata sulla tecnologia della blockchain che mira a facilitare le transazioni finanziarie e il trasferimento di valute digitali. È stata creata per consentire pagamenti veloci, sicuri e a basso costo tra individui e istituzioni in tutto il mondo.
 

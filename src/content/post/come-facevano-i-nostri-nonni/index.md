@@ -16,7 +16,7 @@ Non sono qui per approfondire l'evoluzione storica e giuridica dell'adozione. Ci
 1. “Come facevano i nostri nonni”
 2. Le battaglie politiche durano il tempo di una storia Instagram
 
-# Propio come facevano i nostri nonni
+# Proprio come facevano i nostri nonni
 Variante folcloristica della formula ”Come in natura”, è la frase tipica di chi, privo di riferimenti storici, costruisce la propria identità sull'assenza di fonti con l'unico scopo di imporre agli altri la propria visione del mondo.
 
  Così scrive Michela Murgia nel suo romanzo *Accabadora*, pubblicato nel 2009 da Einaudi.
