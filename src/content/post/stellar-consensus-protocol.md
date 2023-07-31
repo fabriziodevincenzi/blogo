@@ -1,7 +1,7 @@
 ---
 title: "Cos'è lo Stellar Consensus Protocol"
 publishDate: "29 July 2023"
-description: "Lo Stellar Consensus Protocol è ..."
+description: "Lo Stellar Consensus Protocol consente ai nodi della rete di raggiungere l'accordo e di condividere il registro."
 tags: ["blockchain"]
 ---
 
