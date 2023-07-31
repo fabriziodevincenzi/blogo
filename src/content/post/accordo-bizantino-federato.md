@@ -1,7 +1,7 @@
 ---
 title: "Cos'è l'Accordo Bizantino Federato"
 publishDate: "30 July 2023"
-description: "L'Accordo Bizantino Federato è..."
+description: "L'Accordo Bizantino Federato è il concetto sul quale si basa il protocollo della rete blockchain Stellar per raggiungere l'accordo tra i nodi della rete decentralizzata."
 tags: ["blockchain"]
 ---
 
