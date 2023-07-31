@@ -1,6 +1,6 @@
 ---
 title: "Cresce bene"
-description: "Un nuovo corso, nato da decluttering digitale, riconsiderazione dei siti statici, presa a cuore dei temi sulla privacy"
+description: "Un nuovo corso, nato da decluttering digitale, riconsiderazione dei siti statici, presa a cuore dei temi sulla privacy."
 publishDate: "06 Oct 2022"
 coverImage:
   src: "./bar-wurzburg-edera.jpg"

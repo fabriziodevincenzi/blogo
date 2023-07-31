@@ -1,7 +1,7 @@
 ---
 title: "Cos'è Stellar, la rete blockchain inclusiva"
 publishDate: "29 July 2023"
-description: "L'obiettivo principale dei partecipanti alla rete blockchain Stellar è l'inclusività finanziaria. Rimane il problema dell'adozione di massa, per ora."
+description: "L'obiettivo principale dei partecipanti alla rete blockchain Stellar è l'inclusività finanziaria. Rimane il problema dell'adozione di massa."
 tags: ["blockchain"]
 ---
 
