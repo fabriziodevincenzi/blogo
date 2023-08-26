@@ -18,6 +18,18 @@ L'uso dell'FBA nel protocollo di consenso di Stellar offre diversi vantaggi. Per
 In sintesi, l'Accordo Bizantino Federato (FBA) nel contesto del protocollo di consenso di Stellar è un approccio che consente a un gruppo selezionato di nodi affidabili, chiamati validatori, di raggiungere un accordo sulla validità delle transazioni, nonostante la presenza di nodi difettosi o malevoli nella rete. Questo approccio favorisce la scalabilità, la flessibilità e la sicurezza del consenso distribuito.
 
 
+<!--
+
+Tufte CSS style footnotes, minimum viable markup:
+
+<input id="fn1" type="checkbox">
+<label for="fn1">1</label>
+<small>Footnote text</small>
+
+This is just a test, so unlike the original, they're not really accessible. #3 would be best for touchscreens, as clicking anywhere else closes the popup note.
+
+-->
+
 <p class="inline">(…) The lack of a clear definition of the word allowed it to be appropriated as a placeholder word in computer programming,<input id="i1" type="checkbox"><label for="i1">1</label><small>
 
     Bautts, T., Dawson, T. & Purdy G. (2005) <em>Linux Network Administrator's Guide</em>. O'Reilly, p. 64. ISBN 9780596005481
@@ -35,6 +47,50 @@ In sintesi, l'Accordo Bizantino Federato (FBA) nel contesto del protocollo di co
     Richard Raucci (1 January 1997). <em>A Windows NTTM Guide to the Web: Covering Browsers, Servers, and Related Software</em>. Taylor & Francis. p. 50. ISBN 978-0-387-94792-1
 
   </small> and as a general placeholder word in computing literature.<input id="i5" type="checkbox"><label for="i5">5</label><small>
+
+    Claudia Linnhoff-Popien; Heinz-Gerd Hegering (1 September 2000). <em>Trends in Distributed Systems: Towards a Universal Service Market: Third International IFIP/GI Working Conference, USM 2000 Munich, Germany, September 12-14, 2000 Proceedings</em>. Springer. p. 62. ISBN 978-3-540-41024-9
+
+  </small></p>
+
+<p class="block">(…) The lack of a clear definition of the word allowed it to be appropriated as a placeholder word in computer programming,<input id="b1" type="checkbox"><label for="b1">1</label><small>
+
+    Bautts, T., Dawson, T. & Purdy G. (2005) <em>Linux Network Administrator's Guide</em>. O'Reilly, p. 64. ISBN 9780596005481
+
+  </small> particularly by those with ties to <em>Discordianism</em> or the <em>Church of the SubGenius</em>.<input id="b2" type="checkbox"><label for="b2">2</label><small>
+
+    Raymond, Eric S. (1996) <em>The New Hacker's Dictionary</em>. MIT Press, p. 196. ISBN 9780262680929
+
+  </small> It has also been found useful as the name for a “techno cultural” conference,<input id="b3" type="checkbox"><label for="b3">3</label><small>
+
+    FNORD 2014, Northern India Engineering College, Delhi, Techno Cultural Festival, Delhi, March 5-7 2014
+
+  </small> computer programs,<input id="b4" type="checkbox"><label for="b4">4</label><small>
+
+    Richard Raucci (1 January 1997). <em>A Windows NTTM Guide to the Web: Covering Browsers, Servers, and Related Software</em>. Taylor & Francis. p. 50. ISBN 978-0-387-94792-1
+
+  </small> and as a general placeholder word in computing literature.<input id="b5" type="checkbox"><label for="b5">5</label><small>
+
+    Claudia Linnhoff-Popien; Heinz-Gerd Hegering (1 September 2000). <em>Trends in Distributed Systems: Towards a Universal Service Market: Third International IFIP/GI Working Conference, USM 2000 Munich, Germany, September 12-14, 2000 Proceedings</em>. Springer. p. 62. ISBN 978-3-540-41024-9
+
+  </small></p>
+
+<p class="hover">(…) The lack of a clear definition of the word allowed it to be appropriated as a placeholder word in computer programming,<input id="h1" type="checkbox"><label for="h1">1</label><small>
+
+    Bautts, T., Dawson, T. & Purdy G. (2005) <em>Linux Network Administrator's Guide</em>. O'Reilly, p. 64. ISBN 9780596005481
+
+  </small> particularly by those with ties to <em>Discordianism</em> or the <em>Church of the SubGenius</em>.<input id="h2" type="checkbox"><label for="h2">2</label><small>
+
+    Raymond, Eric S. (1996) <em>The New Hacker's Dictionary</em>. MIT Press, p. 196. ISBN 9780262680929
+
+  </small> It has also been found useful as the name for a “techno cultural” conference,<input id="h3" type="checkbox"><label for="h3">3</label><small>
+
+    FNORD 2014, Northern India Engineering College, Delhi, Techno Cultural Festival, Delhi, March 5-7 2014
+
+  </small> computer programs,<input id="h4" type="checkbox"><label for="h4">4</label><small>
+
+    Richard Raucci (1 January 1997). <em>A Windows NTTM Guide to the Web: Covering Browsers, Servers, and Related Software</em>. Taylor & Francis. p. 50. ISBN 978-0-387-94792-1
+
+  </small> and as a general placeholder word in computing literature.<input id="h5" type="checkbox"><label for="h5">5</label><small>
 
     Claudia Linnhoff-Popien; Heinz-Gerd Hegering (1 September 2000). <em>Trends in Distributed Systems: Towards a Universal Service Market: Third International IFIP/GI Working Conference, USM 2000 Munich, Germany, September 12-14, 2000 Proceedings</em>. Springer. p. 62. ISBN 978-3-540-41024-9
 
