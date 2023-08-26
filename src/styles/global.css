@@ -20,7 +20,7 @@
 		--theme-accent: #2bbc89;
 		--theme-accent-2: #eee;
 		--theme-quote: #ccffb6;
-		--theme-menu-bg: rgb(29 31 33 / 0.85);
+		--theme-menu-bg: rgb(29 31 33 / 0.85);	  
 	}
 
 	html {
@@ -29,6 +29,130 @@
 
 	html body {
 		@apply mx-auto flex h-full max-w-3xl flex-col bg-bgColor px-8 pt-16 font-mono text-sm font-normal text-textColor antialiased;
+
+	/* START FOOTNOTES IMPLEMENTATION */
+	
+	p input {
+		display: none;
+	  }
+	  
+	  /* Sup text */
+	  p input + label {
+		font: 0.7em / 1 system-ui, sans-serif;
+		vertical-align: super;
+		cursor: pointer;
+		transition: color 0.1s;
+	  }
+	  
+	  p input + label:before {
+		content: "[";
+	  }
+	  
+	  p input + label:after {
+		content: "]";
+	  }
+	  
+	  p input + label:hover {
+		color: #838374;
+	  }
+	  
+	  /* Footnote text */
+	  
+	  small {
+		color: #838374;
+		font-size: 0.875em;
+		font-family: IBM Plex Sans, sans-serif;
+	  }
+	  
+	  p input + label + small {
+		transition: opacity 0.2s 0.05s;
+		position: absolute;
+		opacity: 0;
+		visibility: hidden;
+	  }
+	  
+	  p input:checked + label + small {
+		position: relative;
+		opacity: 1;
+		visibility: visible;
+	  }
+	  
+	  /******* Flavors *******/
+	  
+	  /* reveal */
+	  p.inline input:checked + label + small {
+		margin: 0 0.15em;
+	  }
+	  
+	  /* block reveal */
+	  p.block input:checked + label + small {
+		display: block;
+		color: #838374;
+		padding: 1ch 3ch;
+	  }
+	  
+	  /* hover reveal */
+	  
+	  p.hover input + label + small,
+	  p.hover input:checked + label + small {
+		display: none;
+	  }
+	  
+	  p.hover input + label:hover + small {
+		font-size:.8em;
+		z-index: 1;
+		position: absolute;
+		display: block;
+		opacity: 1;
+		visibility: visible;
+		padding: 0.3em 0.8em 0.4em;
+		border-bottom: 1px;
+		right: 4ch;
+		left: 4ch;
+		background: #222222ee;
+		color: #eee;
+		box-shadow: 0 0 1em rgba(0, 0, 0, 0.2);
+		border-radius: 3px;
+		pointer-events: none;
+	  }
+	  
+	  /******************
+	   Page demo styles */
+	  
+	  * {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+	  }
+	  
+	  body {
+		font: 19px / 1.5 IBM Plex Serif, serif;
+		padding: 5em 5vw;
+		max-width: 70ch;
+		margin: 0 auto;
+	  }
+	  
+	  p {
+		position: relative;
+	  }
+	  
+	  p + p {
+		margin-top: 4em;
+	  }
+	  
+	  p:before {
+		text-transform: uppercase;
+		position: absolute;
+		left: 0;
+		top: -2.5em;
+		font-size: 0.7em;
+		letter-spacing: 1px;
+		color: #838374;
+		font-family: IBM Plex Sans, sans-serif;
+		content: attr(class);
+	  }
+/* END FOOTNOTES IMPLEMENTATION */
+
 	}
 }
 
