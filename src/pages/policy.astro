@@ -1,0 +1,42 @@
+---
+import PageLayout from "@/layouts/Base";
+import { Image } from "astro:assets";
+import aboutImg from "~/assets/about-astro.png";
+
+const meta = {
+	title: "Privacy policy",
+	description: "Massima trasparenza, zero tracciamenti.",
+};
+---
+
+<PageLayout meta={meta}>
+	<div class="space-y-6">
+		<h1 class="title">Informativa sulla Privacy</h1>
+		<p>
+		Ciao e benvenutə nel mio angolo personale online! Prima di immergerti nei pensieri e nelle passioni che condivido qui, voglio condividere come gestisco la tua privacy.
+
+		Raccolta di Dati
+		Molto semplice: non raccolgo dati personali.
+
+		Sito statico e nessun database
+		Questo spazio è sviluppato con Astro e non contiene database nascosti. I tuoi passi qui svaniranno.
+		
+		Deployment
+		Il mio spazio è distribuito attraverso Github. I server di GitHub risiedono a San Francisco, California, Stati Uniti.
+		Il caricamento delle pagine da GitHub implica la conservazione, per ragioni di sicurezza da parte di GitHub, dell’indirizzo IP del visitatore, sia esso o meno registrato o loggato su GitHub.
+		È possibile trovare le informazioni complete sulle modalità di gestione dei dati di GitHub alla pagina <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement" target="_blank">GitHub Privacy Statement</a>.
+		
+		Monitoraggio delle visite con Tiny Analytics
+		Utilizzo Tiny Analytics per tracciare le visite, rispettando le leggi. Non usando cookie o identificatori, questo monitoraggio è amico di GDPR, CCPA e PECR, quindi non c'è bisogno di consenso.
+
+		I tuoi diritti e come contattarci
+		Hai il controllo quando visiti questo spazio. Domande? Trovi i miei contatti in home page.
+		
+		Aggiornamenti e trasparenza
+		Questa pagina potrebbe essere aggiornata occasionalmente.
+		
+		Ultimo Aggiornamento
+		Data dell'ultimo aggiornamento: 27 agosto 2023.
+		</p>
+		
+</PageLayout>
