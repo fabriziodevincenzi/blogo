@@ -1,6 +1,6 @@
 ---
 title: "Come facevano i nostri nonni"
-description: "Al passato e agli avi vengono si attribuiscono strutture monolitiche, ma solo per accarezzare le identità fragili"
+description: "Al passato e agli avi si attribuiscono strutture monolitiche, solo per accarezzare le identità fragili"
 publishDate: "31 Mar 2023"
 coverImage:
   src: "./fiat-600-anni-sessanta.jpg"
