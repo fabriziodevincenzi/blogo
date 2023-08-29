@@ -1,8 +1,8 @@
 ---
 title: "Personale opinione sul lavoro di Stefano Feltri"
 publishDate: "27 August 2023"
-description: "L'obiettivo principale dei partecipanti alla rete blockchain Stellar è l'inclusività finanziaria. Rimane il problema dell'adozione di massa."
-tags: ["blockchain"]
+description: "Non so cosa Stefano Feltri farà da grande, ma c'è tanto bisogno di democraticizzare l'economia, anche col contributo del giornalismo"
+tags: ["editoria"]
 ---
 
 Ho da poco finito di leggere il libro “Inflazione. Cos'è, da dove viene e come ne usciremo” di Stefano Feltri. Lettura consigliata per capire in quali acque, come società, stiamo navigando da ormai un paio d’anni, conoscendo la lunga rotta percorsa almeno dagli accordi di Breton Woods del 1944 in poi, con un importante approfondimento su come sono state affrontate le passate crisi inflattive, in particolare quella degli anni Settanta.
@@ -11,7 +11,7 @@ Non so dove e non so quando, ho letto o ascoltato Stefano Feltri che, nel presen
 
 L’altro lavoro che Stefano Feltri sta portando avanti è la newsletter Appunti, che in qualche modo è anche un podcast. Uno spazio tutto suo, nel quale parla di ciò che vuole e nel quale, con lo stile di quando era direttore del quotidiano Domani, affronta anche temi non di sua stretta competenza grazie al contributo di singoli esperti che, a seconda delle diverse occasioni, possono essere intervistati, oppure scrivere di proprio pugno.
 
-Seguendolo da po’, apprezzando il suo metodo, le sue conoscenze e la sua capacità espressiva, voglio provare a dare il mio piccolo contributo alla sua richiesta di condividere le idee di noi lettori, affinché possa avere spunti per valutare come sviluppare il suo canale dall’autunno. Quindi questo è ciò che mi interessa provare ora ad analizzare in questo post. Se lo faccio qui e non con una e-mail diretta è perché mi va di scrivere e pubblicare.
+Seguendolo da po’, apprezzando il suo metodo, le sue conoscenze e la sua capacità espressiva, voglio provare a dare il mio piccolo contributo alla sua richiesta di condividere le idee di noi lettori, affinché possa avere spunti per valutare come sviluppare il suo canale dall’autunno. Quindi questo è ciò che mi interessa provare ora ad analizzare in questo post. Se lo faccio qui e non con una e-mail diretta è perché mi va di scrivere e pubblicare per il gusto di farlo.
 
 ## Il pubblico e il contesto
 Un’analisi dovrebbe partire da quello che è il pubblico attuale, ma anche da quello potenziale. Senza dati alla mano, parto banalmente da me e dai miei simili, perciò la dico brutta: in Italia manca una sorta di Sole 24 Ore “per poveri”, cioè lavoratori dipendenti, forse millenials o gen-z affamati di diritti civili, alla continua prova col mondo del lavoro e con a disposizione sempre maggiori strumenti finanziari (dalla app come semplice salvadanaio, alla possibilità di fare piccoli investimenti con l’home banking o con protocolli di finanza decentralizzata) e di cui forse non sanno cosa farsene perché nei prossimi mesi, o anni, di alta inflazione, averceli cento euro al mese da risparmiare o investire. Sono sì cittadini, ma anche soggetti economici che ogni giorno hanno a che fare con bollette, mutui, dichiarazioni dei redditi ed esercenti che sbuffano quando chiedono di pagare col bancomat. Insomma, quegli italiani che spesso Paolo Pagliaro (spalla destra e invisibile di Lilli Gruber nel programma Otto e mezzo su La7) prende in esame nel suo “Punto” ed è su quel terreno, quello del portafogli, che si manifesta la debolezza e la vulnerabilità dei singoli e i cui effetti si notano poi sui servizi comunali e sanitari e a ogni discussione di legge di bilancio. L’ambizione di spiegare la complessità economica perciò, oltre che lodevole, è pure necessaria. 
