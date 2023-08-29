@@ -12,7 +12,15 @@ Nel palazzo dei miei nonni materni c'erano sei appartamenti disposti su tre pian
 
 Tornando alla scala dove abitavano i miei nonni, due delle sei famiglie erano in realtà la stessa allargata: i nonni al primo piano mentre figlio, nuora e nipote al piano di sopra. Figlio a cui dissero solo in età avanzata che, biologicamente parlando, in realtà era figlio dei suoi zii. Quando avvenne l'affido o l'adozione, o in qualunque modo lo si voglia chiamare, erano veramente gli anni Sessanta e le necessità economiche, l'amore per i fratelli e le sorelle, nonché la speranza per il nuovo nato, rendeva diffusa una pratica di cui non si sa molto, semplicemente perché fino a quegli anni non regolamentata, o almeno non nel modo in cui concepiamo oggi il concetto di adozione.
 
-"C"Variante folcloristica della formula ”Come in natura”, è la frase tipica di chi, privo di riferimenti storici, costruisce la propria identità sull'assenza di fonti con l'unico scopo di imporre agli altri la propria visione del mondo.
+"Come facevano i nostri nonni" è un po' la variante folcloristica del modo di dire ”Come in natura”, la frase tipica di chi, privo di riferimenti storici, costruisce la propria identità su un passato idealizzato, con l'unico scopo, poi, di imporre agli altri la propria visione del mondo.
+
+Eppure i nostri nonni, i nostri avi, erano talvolta capaci di inventare soluzioni ai problemi. Sicuramente sapevano anche creare problemi laddove se ne sarebbe potuto fare a meno. Un rapporto per forza di cose realmente più stretto con la natura rendeva noti i tanti limiti che, con sirito di adattamento, era necessario cercare di oltrepassare in qualche modo. 
 
  Così scrive Michela Murgia nel suo romanzo *Accabadora*, pubblicato nel 2009 da Einaudi.
 > Fillus de anima: è così che chiamano i bambini generati due volte, dalla povertà di una donna e dalla sterilità di un'altra.
+
+Quando si aveva poco si era anche capaci di condividere i propri averi, perfino quando si trattava di figli. Senza nulla di scritto, con una stretta di mano, o un abbraccio, e tante lacrime.
+
+Questa storia del palazzo dei miei nonni mi viene in mente ogni volta che in nome della natura o di qualche legge divina si proibisce a coppie che per i più diversi motivi non possono avere figli. Ora che le conoscenze e le tecnologie si è capaci di porre limiti di cui si potrebbe benissimo fare a meno:
+- con l'assenza di un serio dibattito quando in questi mesi si parla di gravidanza surrogata;
+- con il non raggiungimento del quorum nei referendum abrogativi del 2005 in materia di "procreazione medicalmente assistita".
