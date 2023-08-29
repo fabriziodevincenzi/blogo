@@ -1,7 +1,7 @@
 ---
 title: "Personale opinione sul lavoro di Stefano Feltri"
 publishDate: "27 August 2023"
-description: "Non so cosa Stefano Feltri farà da grande, ma c'è tanto bisogno di democraticizzare l'economia, anche col contributo del giornalismo"
+description: "Non so cosa Stefano Feltri farà da grande, ma c'è tanto bisogno di democratizzare l'economia, anche col contributo del giornalismo"
 tags: ["editoria"]
 ---
 
