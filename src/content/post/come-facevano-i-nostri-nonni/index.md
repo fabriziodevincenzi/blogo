@@ -16,11 +16,11 @@ Tornando alla scala dove abitavano i miei nonni, due delle sei famiglie erano in
 
 Eppure i nostri nonni, i nostri avi, erano talvolta capaci di inventare soluzioni ai problemi. Sicuramente sapevano anche creare problemi laddove se ne sarebbe potuto fare a meno. Un rapporto per forza di cose realmente più stretto con la natura rendeva noti i tanti limiti che, con sirito di adattamento, era necessario cercare di oltrepassare in qualche modo. 
 
- Così scrive Michela Murgia nel suo romanzo *Accabadora*, pubblicato nel 2009 da Einaudi.
+ Scrive Michela Murgia nel suo romanzo *Accabadora*, pubblicato nel 2009 da Einaudi.
 > Fillus de anima: è così che chiamano i bambini generati due volte, dalla povertà di una donna e dalla sterilità di un'altra.
 
 Quando si aveva poco si era anche capaci di condividere i propri averi, perfino quando si trattava di figli. Senza nulla di scritto, con una stretta di mano, o un abbraccio, e tante lacrime.
 
-Questa storia del palazzo dei miei nonni mi viene in mente ogni volta che in nome della natura o di qualche legge divina si proibisce a coppie che per i più diversi motivi non possono avere figli. Ora che le conoscenze e le tecnologie si è capaci di porre limiti di cui si potrebbe benissimo fare a meno:
+La storia familiare custodita nel palazzo dei miei nonni mi viene in mente ogni volta che, in nome della natura o di qualche legge divina, si proibisce a coppie che, per i più diversi motivi, non possono avere figli di accedere a pratiche che farebbero "solo" la felicità delle persone. Ora che le conoscenze e le tecnologie consentirebbero, si è capaci di porre limiti di cui si potrebbe benissimo fare a meno:
 - con l'assenza di un serio dibattito quando in questi mesi si parla di gravidanza surrogata;
 - con il non raggiungimento del quorum nei referendum abrogativi del 2005 in materia di "procreazione medicalmente assistita".
