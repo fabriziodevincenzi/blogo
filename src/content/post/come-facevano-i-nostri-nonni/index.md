@@ -1,6 +1,6 @@
 ---
 title: "Come facevano i nostri nonni"
-description: "Siamo proprio sicuri di sapere come si faceva un volta? E siamo proprio sicuri che i nostri avi sarebbero contenti di come agiamo oggi?"
+description: ""
 publishDate: "31 Mar 2023"
 coverImage:
   src: "./fiat-600-anni-sessanta.jpg"
@@ -12,12 +12,7 @@ Nel palazzo dei miei nonni materni c'erano sei appartamenti disposti su tre pian
 
 Tornando alla scala dove abitavano i miei nonni, due delle sei famiglie erano in realtà la stessa allargata: i nonni al primo piano mentre figlio, nuora e nipote al piano di sopra. Figlio a cui dissero solo in età avanzata che, biologicamente parlando, in realtà era figlio dei suoi zii. Quando avvenne l'affido o l'adozione, o in qualunque modo lo si voglia chiamare, erano veramente gli anni Sessanta e le necessità economiche, l'amore per i fratelli e le sorelle, nonché la speranza per il nuovo nato, rendeva diffusa una pratica di cui non si sa molto, semplicemente perché fino a quegli anni non regolamentata, o almeno non nel modo in cui concepiamo oggi il concetto di adozione.
 
-Non sono qui per approfondire l'evoluzione storica e giuridica dell'adozione. Ciò di cui mi preme parlare sono due concetti che purtroppo condizionano la politica di oggi e che stanno condizionando il dibattito sulla maternità surrogata:
-1. “Come facevano i nostri nonni”
-2. Le battaglie politiche durano il tempo di una storia Instagram
-
-# Proprio come facevano i nostri nonni
-Variante folcloristica della formula ”Come in natura”, è la frase tipica di chi, privo di riferimenti storici, costruisce la propria identità sull'assenza di fonti con l'unico scopo di imporre agli altri la propria visione del mondo.
+"C"Variante folcloristica della formula ”Come in natura”, è la frase tipica di chi, privo di riferimenti storici, costruisce la propria identità sull'assenza di fonti con l'unico scopo di imporre agli altri la propria visione del mondo.
 
  Così scrive Michela Murgia nel suo romanzo *Accabadora*, pubblicato nel 2009 da Einaudi.
 > Fillus de anima: è così che chiamano i bambini generati due volte, dalla povertà di una donna e dalla sterilità di un'altra.
